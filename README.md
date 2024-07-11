@@ -1,2 +1,2 @@
 # PW-Skills-Assignment
-this repository is dedicated to the PWSkills Full Stack Data Science Pro batch assignment submission.
+Here i will be uploading my Assignments for PW Skills Full Stack Data Science Pro batch.
